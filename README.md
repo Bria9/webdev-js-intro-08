@@ -39,7 +39,7 @@ To view the project locally, you can either open the project files in your code 
 
 - [x] Navigate to the Assignment Page
 - [x] Read the assignment overview and output section.
-- [ ] In `assignment.js`:
+- [x] In `assignment.js`:
     - [x] Create a function called `findSmallestNumber`. This function should take in the array, `myNumbers`. Loop through the array and return the smallest number.
     - [x] Create a function called `findLargestNumber`. This function should take in the array, `myNumbers`. Loop through the array and return the largest number.
     - [x] Create a function called `findAverage`. This function should take in the array, `myNumbers`. Loop through the array and return the average.
